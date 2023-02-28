@@ -1,176 +1,131 @@
-# Silabus Fullstack Web Developer
+# Silabus Menjadi Web Developer
 
-## Minggu 1 - Belajar HTML Dasar
-- Cara Kerja Sebuah Website
-- Berkenalan Dengan HTML
-- Mengenal Tag Dasar HTML
-- Membuat Struktur Website Sederhana
-- Tugas Minggu #1 Membuat Website Biodata Sederhana
+## Minggu 1 : Belajar HTML (Membuat struktur website)
+- Cara kerja website
+- Tools yang dibutuhkan
+- Mengenal HTML, tag dasar, element, dan attribut
+- Mengubah format text
+- Mengenal tag div dan span
+- Memasukkan gambar
+- Membuat hyperlink
+- Membuat list
+- Membuat table
+- Membuat form (input, radio, checkbox, option, file)
+- Tugas Minggu #1 : Buat website biodata sederhana
 
-## Minggu 2 - Belajar CSS Dasar
-- Review Materi Minggu #1
-- Berkenalan Dengan CSS
-- Menghubungkan CSS Dengan HTML
-- Mengenal Flexbox & Media Queries
-- Mendesain Halaman Login
-- Tugas Minggu #2 Mengubah Tampilan Halaman Login
+## Minggu 2 - Belajar CSS (Mendesain website)
+- Rewiew tugas minggu #1
+- Mengenal CSS
+- Menghubungkan CSS dengan HTML
+- Mengenal selector, property dan value
+- Mengenal jenis selector (universal, tag, class, id, attribut)
+- Mengenal sifat penurunan
+- Mengenal kode warna
+- Merubah font (google font)
+- Mengenal margin dan padding
+- Mengenal media queries
+- Tugas Minggu #2 : Desain website biodata sederhana
 
-## Minggu 3 - Bootstrap
-- Review Materi Minggu #2
-- Berkenalan Dengan Bootstrap
-- Menggunakan Component Pada Bootstrap
-- Membuat Web Blog Sederhana
-- Tugas Minggu #3 Membuat Web Blog Sederhana
+## Minggu 3 : Belajar Bootstrap (Framework CSS)
+- Review tugas minggu #2
+- Mengenal bootstrap
+- Menghubungkan bootstrap dengan html
+- Membuat alert
+- Membuat button
+- Membuat card
+- Membuat menu (navbar)
+- Mengenal component yang lain
+- Membuat layout (Grid System)
+- Membuat form (input, radio, checkbox, option, file)
+- Tugas Minggu #3 : Buat halaman login
 
-## Minggu 4 - Javascript (Bagian: 1)
-- Review Materi Minggu #3
-- Berkenalan Dengan Javascript
-- Javascript Dasar (Variabel, Tipe Data, If Else)
-- Javascript Array & Object
-- Javascript Function
-- DOM Javascript
-- Tugas Minggu #4 Membuat Web Blog Menjadi Lebih Interaktif
+## Minggu 4 : Belajar Javascript (Bagian: 1)
+- Review tugas minggu #3
+- Mengenal javascript
+- Javascript dasar (variabel, tipe Data, if else)
+- Mengenal array dan object
+- Mengenal function
+- Belajar DOM javascript
+- Tugas minggu #4 : Buat validasi untuk halaman login
 
-## Minggu 5 - Javascript ES6 (Bagian: 2)
-- Review Materi Minggu #4
-- Berkenalan Dengan ES6
-- Variabel (Let & Const)
-- Template Literals
+## Minggu 5 : Belajar Node JS (Backend untuk javascript)
+- Review tugas minggu #4
+- Mengenal Nodejs & Menginstall
+- Mengenal NPM
+- Membuat webserver dengan nodejs
+- Menggunakan modul dari NPM
+- Mengenal Expressjs
+- Membuat webserver dengan expressjs
+
+## Minggu 6 : Belajar Javascript ES6 (Bagian: 2)
+- Rewiew materi minggu #5
+- Mengenal ES6
+- Variabel (let, const)
+- Template literals
 - Class
 - Arrow Function
-- Array Methods
-- Destructing & Spread Operators
+- Array Methods (push, map, join)
+- Destructiong & Spread Operators
 - Import & Export
-- Mengenal NPM
 
-## Minggu 6 - React JS
-- Review Materi Minggu #5
-- Menginstall Nodejs
-- Membuat Project Baru Pada React JS
-- Berkenalan Dengan React JS
-- Memahami Struktur Direktori Project
-- Mengenal Komponen
-- Membuat & Menggunakan State
-- Membuat & Menggunakan Props
-- Memahami Sintax JSX
-- Cara Menggunakan CSS
-- Membuat Stuktur Project Folder Yang Rapih
-- Tugas Minggu #6 Membuat Halaman Login Sederhana
+## Minggu 7 : Belajar React JS
+- Review materi minggu #6
+- Mengenal React JS
+- Mengenal JSX
+- Membuat project baru
+- Memahami struktur directori project
+- Mengenal komponen function
+- Mengenal React Hooks (useEffect, useState, useMemo)
+- Mengenal Props
+- Cara menggunakan CSS
+- Membuat form dengan formik
+- Mengenal Router (react-router-dom)
+- Membuat struktur project folder yang rapih
+- Tugas minggu #7 : Buat web biodata sederhana
 
-## Minggu 7 - Bootstrap React JS
-- Review Materi Minggu #6
-- Menggunakan Bootstrap
-- Menggunakan Component Bootstrap
-- Tugas Minggu #7 Membuat Web Blog Sederhana
+## Minggu 8 : React JS dan Bootstrap
+- Review tugas minggu #7
+- Menginstall bootstrap pada project React JS
+- Menggunakan component bootstrap
+- Mengatur layout (grid)
+- Membuat form login
+- Membuat validasi dengan yup
+- Tugas minggu #8 : Buat form register beserta validasi
 
-## Minggu 8 - Belajar Node JS
-- Review Materi Minggu #7
-- Pengenalan Nodejs
-- Membuat Webserver Dengan Nodejs
-- Menggunakan Modul Dari Nodejs
-- Menggunakan Modul Dari NPM
-- Mengenal Express JS
-- Membuat Webserver Dengan Express JS
-- Tugas Minggu #8 Membuat Webserver
-
-## Minggu 9 - Membuat API Dengan Express JS
-- Review Materi Minggu #8
-- Mengenal JSON
-- Mengenal Restfull API
-- Membuat API Dengan Method GET
-- Membuat API Dengan Method POST
-- Membuat API Dengan Method PUT
-- Membuat API Dengan Method DELETE
-- Tugas Minggu #9 Membuat API Artikel
-
-## Minggu 10 - Belajar Database
-- Review Materi Minggu #9
-- Mengenal Database
+## Minggu 9 : Belajar Dasar Database
+- Review tugas minggu #8
+- Mengenal database
 - Mengenal RDBMS (Relational Database Managament System)
 - Mengenal MySQL
-- Menginstall XAMPP
-- Menjalankan MySQL Melalui CMD
+- Mengenal auto increment, primary key, foreign key
+- Menginstall Xampp
+- Menjalankan MySQL melalui CMD
 
-## Minggu 11 - Belajar MySQL
-- Review Materi Minggu #10
-- Membuat Database
-- Membuat Table
+## Minggu 10 : Belajar MySQL
+- Review materi minggu #9
+- Membuat database
+- Membuat table
 - Menambahkan Data
 - Menampilkan Data
 - Mengedit Data
 - Menghapus Data
-- Tugas Minggu #11 Membuat Table Artikel
+- Mengenal & menggunakan phpmyadmin
+- Tugas minggu #10 : Membuat CRUD (create, read, update, delete)
 
-## Minggu 12 - Membuat Restfull API CRUD
-- Review Materi Minggu #11
-- Menambahkan Data Artikel
-- Menampilkan Data Artikel
-- Mengedit Data Artikel
-- Menghapus Data Artikel
-- Error Handling
-- Tugas Minggu #12 Membuat CRUD Data Produk
+## Minggu 11 : Buat Restfull API (CRUD)
+- Review tugas minggu #10
+- Mengenal apa itu API
+- Mengenal apa itu Restfull API
+- Mengenal method GET, POST, PUT, dan DELETE
+- Membuat CRUD (struktur MVC)
+- Menjalankan API menggunakan aplikasi postman
+- Konsumsi API pada React JS menggunakan axios
+- Tugas minggu #11 : Membuat web crud (data artikel) sederhana
 
-## Minggu 13 - Belajar Sequilize
-- Review Materi Materi #12
-- Mengenal Sequilize
-- Menampilkan Data
-- Menambahkan Data
-- Mengedit Data
-- Menghapus Data
-- Tugas Minggu #13 Membuat CRUD Dengan Sequilze
-
-## Minggu 14 - Membuat Restfull API Untuk Login
-- Review Materi Minggu #13
-- Membuat Table User
-- Mengenal JSON Web Token
-- Membuat Login User
-
-## Minggu 15 - Konsumsi API Artikel Pada React JS
-- Review Materi Minggu #14
-- Mengenal Axios Untuk Fetch API
-- Membuat Login User
-- Menampilkan Data Artikel
-- Menambahkan Data Artikel
-- Mengedit Data Artikel
-- Menghapus Data Artikel
-- Tugas Minggu #15 Membuat CRUD Untuk Data Produk
-
-## Minggu 16 - Mini Project Website Managament Data Karyawan
-- Review Materi Minggu #15
-- Merenecanakan Database
-- Mendesign Tampilan Website
-- Membuat Halaman Login
-- Membuat CRUD Karyawan
-
-## Minggu 17 - Studi Kasus #1
-- Review Materi Minggu #16
-- Membuat Website Managament Obat Pada Apotek
-
-## Minggu 18 - Belajar GIT
-- Review Materi Minggu #17
-- Mengenal Git
-- Menginstall Git
-- Membuat Repositori Git Pada Proyek
-- Simpan Perubahan Revisi Dengan Git Commit
-- Melihat Catatan Log Revisi
-- Mengenal Git Diff
-- Mengenal Git Checkout
-- Membuat Percabangan (Branch) Git Branch
-- Mengenal Git Push & Pull
-- Mengupload Project Dari Lokal ke Github
-- Mengambil Project Dari Github ke Lokal
-- Tugas Minggu #18 Latihan Mandiri
-
-## Minggu 19 - Bekerja Dengan Tim
-- Review Materi Minggu #18
-- Menentukan Base Code
-- Membuat Project - Website Company Profil
-- Membagi Tim, Tim A, Tim B, dan Tim C
-- Membagi Tugas Untuk Pembuatan Fitur
-
-## Minggu 20 - Upload Project ke Hosting
-- Review Materi Minggu 19
-- Mengenal Hosting
-- Mengenal Domain
-- Mengupload Website Company Profil
-- Tugas Minggu #20 Mengupload Project Sebelumnya
+## Minggu 12 : Buat project akhir - Aplikasi Managament Karyawan Sederhana
+- Review materi #1 sampai #11
+- Analisa kebutuhan
+- Analisa database
+- Merancang tampilan
+- Membuat database
+- Menulis kode
