@@ -80,6 +80,7 @@
 - Cara menggunakan CSS
 - Membuat form dengan formik
 - Mengenal Router (react-router-dom)
+- Konsumsi API
 - Membuat struktur project folder yang rapih
 - Tugas minggu #7 : Buat web biodata sederhana
 
